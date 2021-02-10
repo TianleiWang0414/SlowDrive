@@ -5,6 +5,12 @@ The SlowDrive is an application system that will notify drivers if they are spee
 3. Select your route on the map shown. Make sure your emulator is updated (v29.3.4-6110076 or above).
 4. click play.
 
-Architecture: [Architecture](ARCHITECTURE.md)
+Architecture: [Architecture](ARCHITECTURE.md)  
 
-Vision: [Vision Statement](Vision.md)
+Vision: [Vision Statement](Vision.md)  
+
+Contributor:  
+Tianlei Wang  
+Ego Zakgarov
+Marielle Manlulu
+Conner Hryoruk
