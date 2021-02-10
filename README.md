@@ -10,7 +10,7 @@ Architecture: [Architecture](ARCHITECTURE.md)
 Vision: [Vision Statement](Vision.md)  
 
 Contributor:  
-Tianlei Wang  
-Ego Zakgarov
-Marielle Manlulu
-Conner Hryoruk
+- Tianlei Wang  
+- Ego Zakgarov
+- Marielle Manlulu  
+- Conner Hryoruk  
